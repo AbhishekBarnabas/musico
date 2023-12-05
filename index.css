@@ -1,0 +1,289 @@
+.head {
+    width: 81%;
+    height: 500px;
+    background-image: url(./pic/main2.jpeg);
+    background-size: cover;
+    margin-left: 137px;
+}
+
+.nav {
+    width: 100%;
+    height: 40px;
+}
+
+.nav h2 {
+    color: aliceblue;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+button {
+    float: right;
+    margin-top: -41px;
+    margin-right: 257px;
+    background-color: rgba(255, 166, 0, 0.03);
+    /* font-style: italic; */
+    border: solid white;
+    font-size: medium;
+    border-radius: 50px;
+
+}
+
+button:hover {
+    color: rgb(221, 115, 9);
+}
+@media( max-width:390px)
+{
+    
+}
+
+
+.account {
+
+    float: right;
+    margin-top: -41px;
+    margin-right: 125px;
+}
+
+
+.artist {
+    float:
+        right;
+    margin-top: -41px;
+    margin-right: 34px;
+}
+
+p {
+    width: 60%;
+    height: 20px;
+    margin-top: 137px;
+    margin-left: 50px;
+    font-size: 25px;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+
+.signup {
+    margin-top: 106px;
+    margin-right: 800px;
+    background-color: aliceblue;
+    font-size: larger;
+    border-radius: 50px;
+}
+
+input {
+    margin-left: 509px;
+    margin-top: 12px;
+    width: 30%;
+    height: 25px;
+    border-radius: 7px;
+}
+
+.search h2 {
+    color: black;
+    text-align: center;
+}
+
+.search h3 {
+    text-align: right;
+    margin-right: 718px;
+    /* margin-bottom: 500px; */
+}
+
+.para h3 {
+    float: right;
+    margin-right: 470px;
+}
+
+.upload {
+    margin-right: 611px;
+    margin-top: -17px;
+    background-color: orange;
+    font-size: 27px;
+}
+
+.para.h3 {
+    width: 50%;
+    height: 20px;
+    text-align: center;
+    margin-top: 46px;
+    margin-right: -464px;
+    color: black;
+}
+
+.top {
+    width: 100%;
+    height: -2px;
+    margin-top: 100px;
+    color: black;
+    margin-left: 140px;
+}
+
+#box {
+    float: right;
+    width: 80%;
+    height: 500px;
+    margin-top: 87px;
+    margin-left: 291px;
+    /* display: flex; */
+    justify-content: space-around;
+    padding: 20px;
+
+}
+
+
+.album {
+
+    margin-top: 20px;
+    display: flex;
+    height: 180px;
+    width: 213px;
+    border: black solid 1px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: transform 0.3s ease-in-out;
+}
+
+.album:hover {
+    color: #b4b4b5;
+    transform: scale(1.1);
+
+    background-color: rgb(33, 32, 32);
+
+}
+
+h3 {
+    display: flex;
+    color: #121213;
+    align-items: end;
+    text-align: center;
+    padding-left: 74px;
+    color: rgb(251, 247, 242);
+    font-size: larger;
+
+}
+
+.a {
+    margin-top: 10px;
+
+}
+
+.row1 {
+    margin-top: 24px;
+    width: 80%;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.row2 {
+    margin-top: 22px;
+    width: 80%;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.row3 {
+    margin-top: 22px;
+    width: 80%;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.album.a1 {
+    background-image: url(./pic/album1.jpg);
+    background-size: cover;
+}
+
+.album.a2 {
+    background-image: url(./pic/album2.jpg);
+    background-size: cover;
+}
+
+.album.a3 {
+    background-image: url(./pic/album3.jpg);
+    background-size: cover;
+}
+
+.album.a4 {
+    background-image: url(./pic/album4.jpg);
+    background-size: cover;
+}
+
+.album.a5 {
+    background-image: url(./pic/album5.jpg);
+    background-size: cover;
+}
+
+.album.a6 {
+    background-image: url(./pic/album6.jpg);
+    background-size: cover;
+}
+
+.album.a7 {
+    background-image: url(./pic/album7.jpg);
+    background-size: cover;
+}
+
+.album.a8 {
+    background-image: url(./pic/album8.jpg);
+    background-size: cover;
+}
+
+.album.a11 {
+    background-image: url(./pic/album11.jpg);
+    background-size: cover;
+}
+
+.album.a12 {
+    background-image: url(./pic/album12.jpg);
+    background-size: cover;
+}
+
+.album.a13 {
+    background-image: url(./pic/album13.jpg);
+    background-size: cover;
+}
+
+.album.a14 {
+    background-image: url(./pic/album14.jpg);
+    background-size: cover;
+}
+
+#box2{
+    background-image: url(./pic/body.jfif);
+    background-size: cover;
+  height: 453px;
+  width: 80%;
+  margin-top: 1068px;
+    margin-left: 141px;
+    
+}
+.p2{
+    font-size: 49px;
+    color: #f0f0f0;
+}
+.footer{
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    height: 43px;
+}
+
+footer {
+    background-color: #333;
+    color: rgb(5, 5, 5);
+    text-align: center;
+    padding: -2px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+   
+}
+.p1{
+    margin-left: 499px;
+    color: black;
+}
